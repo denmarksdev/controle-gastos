@@ -2,11 +2,11 @@ package com.marksdev.financask.extension
 
 private val i = 0
 
-fun String.limitaEmAte(carecteres: Int): String {
+fun String.limitaEmAte(caracteres: Int): String {
 
-    if (this.length > carecteres) {
+    if (this.length > caracteres) {
         val primeiroCaracter = 0
-        return "${this.substring(primeiroCaracter, carecteres)}..."
+        return "${this.substring(primeiroCaracter, caracteres)}..."
     }
     return this
 }
