@@ -1,24 +1,27 @@
-<b>Apreendendo kotlin</b>
+# Apreendendo kotlin
 
-Depois de ter concluído os cursos da carreira Android na alura, resolvi aprender a linguagem Kotlin, uma linguagem mais enxuta que Java. Suporta os paradigmas de orientação a objetos e programação funcional. É prazeroso programar nesta linguagem, tanto quanto em C#.
+Depois de ter concluído os cursos da carreira Android na alura, resolvi aprender a linguagem Kotlin, uma linguagem mais enxuta que Java. Suporta os paradigmas de orientação a objetos e programação funcional.
 
-Dentro da carreira pude aprender :
+# O aplicativo
 
-<ul>
- <li>Criação de classes modelos e utilização de properties</li>
- <li>Adicionando comportamentos em outras classes com Extension Function</li>
- <li>Simplificando o código com expressão lambda</li>
- <li>Delegando responsabilidades</li>
- <li>Boas práticas na refatoração do código</li>
- <li>Utlizando expressões lambdas</li>
- <li>Segurança no código com null safety</li>
-<li>Técnicas de inicialização</li>
-<li>Aumentando a flexibilidade com herança</li>
-<li>Aplicando as Higher Order Functions</li>
-<li>Implementando o menu de contexto</li>
-<li>Utilizando Companion Objects</li>
-</ul>
+O aplicativo tem como objetivo realizar o lançamento de saldos e débitos e exibir o saldo final.
 
+# Executando o projeto
 
+- Ter instalado o [Android Studio](https://developer.android.com/studio)
+- Testado no Android 7.1 Nougat
 
+# O que foi apreendido
 
+- Criação de classes modelos e utilização de properties
+- Adicionando comportamentos em outras classes com Extension Function
+- Simplificando o código com expressão lambda
+- Delegando responsabilidades
+- Boas práticas na refatoração do código
+- Utlizando expressões lambdas
+- Segurança no código com null safety
+- Técnicas de inicialização
+- Aumentando a flexibilidade com herança
+- Aplicando as Higher Order Functions
+- Implementando o menu de contexto
+- Utilizando Companion Objects
