@@ -1,6 +1,6 @@
 # Apreendendo kotlin
 
-Depois de ter concluído os cursos da carreira Android na alura, resolvi aprender a linguagem Kotlin, uma linguagem mais enxuta que Java. Suporta os paradigmas de orientação a objetos e programação funcional.
+Depois de ter concluído os cursos da carreira Android na [Alura](https://www.alura.com.br), resolvi aprender a linguagem Kotlin, uma linguagem mais enxuta que Java. Suporta os paradigmas de orientação a objetos e programação funcional.
 
 # O aplicativo
 
