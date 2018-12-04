@@ -25,3 +25,7 @@ O aplicativo tem como objetivo realizar o lançamento de saldos e débitos e exi
 - Aplicando as Higher Order Functions
 - Implementando o menu de contexto
 - Utilizando Companion Objects
+
+# Screenshot
+
+![](https://github.com/denmarksdev/controle-gastos/blob/master/screenshot.jpg?raw=true "Aplicativo de Controle de Gastos")
