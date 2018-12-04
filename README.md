@@ -4,7 +4,7 @@ Depois de ter concluído os cursos da carreira Android na [Alura](https://www.al
 
 # O aplicativo
 
-Tem como objetivo realizar o lançamento de saldos e débitos e exibir o saldo final.
+Tem como objetivo realizar o lançamento de receitas e despesas e exibir o saldo final.
 
 # Executando o projeto
 
